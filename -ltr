@@ -1,0 +1,35 @@
+[33mcommit 7b3c30d755fa815837f0a21010932973259e306d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;32mnewbranch[m[33m)[m
+Author: Subramanian M <subramanian.murugesan@gmail.com>
+Date:   Sun Mar 16 05:15:14 2025 +0000
+
+    commit
+
+[33mcommit f25b71e4deb4cdbf008666d65d88498ed6a9fdf3[m[33m ([m[1;32mtestbranch[m[33m)[m
+Author: Subramanian M <subramanian.murugesan@gmail.com>
+Date:   Sun Mar 16 04:53:08 2025 +0000
+
+    commit changes test
+
+[33mcommit 7a7f2524cd8301ee1f27c77e9bb73d9fc367d79e[m
+Author: Subramanian M <subramanian.murugesan@gmail.com>
+Date:   Sun Mar 16 04:46:31 2025 +0000
+
+    commit changes test 2
+
+[33mcommit 92418b45e16ca1e5bed2cd9c904441d4cfbcd327[m
+Author: Subramanian M <subramanian.murugesan@gmail.com>
+Date:   Sun Mar 16 04:46:03 2025 +0000
+
+    commit changes test
+
+[33mcommit 5882f8c4ed06490983fc94222f25f110a23aaddc[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: EC2 Default User <ec2-user@ip-172-31-46-184.ap-south-1.compute.internal>
+Date:   Sat Mar 15 06:28:46 2025 +0000
+
+    new file2 added
+
+[33mcommit b31b84d64146917451632c66640213b12ceee4f5[m
+Author: EC2 Default User <ec2-user@ip-172-31-46-184.ap-south-1.compute.internal>
+Date:   Sat Mar 15 06:24:36 2025 +0000
+
+    new file
